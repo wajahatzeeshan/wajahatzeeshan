@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wajahatzeeshan
 - 👀 I’m interested in App development, Data and Business Intelligence.
-- 🌱 I’m currently learning Python, Nodejs, express
+- 🌱 I’m currently learning Python, Nodejs and Express.
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me...
 
