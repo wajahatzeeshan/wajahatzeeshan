@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wajahatzeeshan
-- 👀 I’m interested in Data Engineer and Analytics.
-- 🌱 I’m currently learning Python, GCP, Nodejs and Express.
-- 💞️ I’m looking to collaborate on Development
+- 👋 Hi, I am @wajahatzeeshan
+- 👀 I am interested in Data Engineer and Analytics.
+- 🌱 I am currently learning DP - 600 Fabric Analytics Engineer, Python. 
+- 💞️ I am looking to collaborate on Development
 - 📫 How to reach me...
 
 <!---
