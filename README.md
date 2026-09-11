@@ -1,6 +1,6 @@
 - 👋 Hi, I am @wajahatzeeshan
-- 👀 I am interested in Data Engineer and Analytics.
-- 🌱 I am currently learning DP - 600 Fabric Analytics Engineer, Python. 
+- 👀 I am interested in Fabric Data Engineer Associate.
+- 🌱 I am currently learning DP - 700 Fabric Analytics Engineer, Python. 
 - 💞️ I am looking to collaborate on Development
 - 📫 How to reach me...
 
