@@ -2,7 +2,7 @@
 
 My name is Wajahat!
 
-👀 I am interested in Fabric Data Engineer Associate.
+👀 I am interested in Fabric Data Engineering.
 
 🌱 I am currently learning DP - 700 Fabric Analytics Engineer, Python. 
 
